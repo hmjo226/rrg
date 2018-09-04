@@ -5,9 +5,9 @@ My Map of the Red River Gorge, Kentucky
 ## Facts about the Red River Gorge
 
 1. The RRG is home to 3 endangered animals:
-    Indiana Bat,
-    Virginia Big-eared Bat, and
-    Red Cockaded Woodpecker
+    * Indiana Bat,
+    * Virginia Big-eared Bat, and
+    * Red Cockaded Woodpecker
 
 2. A dam was proposed to be built in the RRG in the 1960's, but the Sierra Club put a stop to it with a protest hike. 
 
