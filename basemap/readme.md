@@ -4,12 +4,12 @@
 ## Double Arch
  Tunnel Ridge Rd., Daniel Boone National Forest
 
- What separates the Double Arch from other sandstone arches in the Red River Gorge area? Well, just what the name suggests -- there are two arches all in one single landform! The hike, about 5 miles roundtrip from the trailead, is unique with its natural beauty, a simple wooden bridge to cross a stream, and a few sets of wooden stairs to get up and down the steep hillsides.
+ What separates the Double Arch from other sandstone arches in the Red River Gorge area? Well, just what the name suggests -- there are two arches all in one single landform! The hike, about 5 miles roundtrip from the trailhead, is unique with its natural beauty, a simple wooden bridge to cross a stream, and a few sets of wooden stairs to get up and down the steep hillsides.
  
 ![A Misty Morning Hike](misty.jpg)
 ![Over the River and Through the Woods!](bridge.jpg)
 
-The arch itself is probably no more than 18 feet tall and 30 feet long when you're looking at it from the side. Once on top of the arch, however, it feels as if the arch extends half the size of a football field. Using Avenza Maps to calculate the area of the entire landform, I would estimate it to be no more than 15,000 square feet. 
+The arch itself is probably no more than 18 feet tall and 30 feet long when you're looking at it from the side. Once on top of the arch, however, it feels as if the arch extends half the length of a football field. Using Avenza Maps to calculate the area of the entire landform, I would estimate it to be no more than 15,000 square feet. 
 
 ![The Arch](thearch.jpg)
 
