@@ -13,7 +13,7 @@ The arch itself is probably no more than 18 feet tall and 30 feet long when you'
 
 ![The Arch](thearch.jpg)
 
- The destination, though, is the most breathtaking part. Not only is there a view from underneath the arch, but there are also natural steps in the side of the arch that lead you to the top. All of your worries are sure to go away as you look out across the horizon at this view.
+ The destination is the most breathtaking part. Not only is there a view from underneath the arch, but there are also natural steps in the side of the arch that lead you to the top. All of your worries are sure to go away as you look out across the horizon at this view.
 
 ![From Down Under](viewfromunder.jpg)
 ![Same view as the previous image, just now from on top of the arch!](view.jpg)
