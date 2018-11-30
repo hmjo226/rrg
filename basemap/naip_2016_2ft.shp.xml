@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20181130</CreaDate><CreaTime>16441000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\3D Analyst Tools.tbx\RasterDomain" Date="20181130" Time="164410">RasterDomain doub_arch_lidar C:\JohnsonGIS\rrg\basemap\naip_2016_2ft.shp Polygon</Process></lineage></DataProperties></Esri></metadata>
