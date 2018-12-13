@@ -35,7 +35,7 @@ The arch itself is probably no more than 18 feet tall and 30 feet long when you'
 ### Web pages 
 
 * [Welcome to the Red River Gorge](../index.html) *(lab 1)*
-* [Explore the arch](#) *(lab 8)*
+* [Explore the arch](../map.html) *(lab 8)*
 
 ### Photographs
 
